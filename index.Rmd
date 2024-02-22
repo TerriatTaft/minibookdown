@@ -1,6 +1,6 @@
 ---
-title: "A Mini Bookdown"
-author: "Your Name"
+title: "Information Literacy for Community College Students"
+author: "Terri Smith"
 site: bookdown::bookdown_site
 documentclass: book
 classoption: openany
